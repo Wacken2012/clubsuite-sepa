@@ -1,0 +1,8 @@
+{
+  "translations": {
+    "appName": "SEPA",
+    "mandates": "Mandate",
+    "paymentRuns": "Zahlungsläufe"
+  },
+  "pluralForm": "nplurals=2; plural=(n != 1);"
+}
